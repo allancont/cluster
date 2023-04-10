@@ -4,7 +4,6 @@ import numpy as np
 import matplotlib.pyplot as plt
 import seaborn as sns
 from datetime import datetime
-import altair as alt
 from scipy.cluster.hierarchy import linkage, fcluster, dendrogram
 from gower import gower_matrix
 from scipy.spatial.distance import pdist, squareform
