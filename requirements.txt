@@ -8,3 +8,4 @@ scikit_learn==1.0.2
 scipy==1.7.3
 seaborn==0.12.2
 streamlit==1.19.0
+altair==4.2.2
